@@ -1,0 +1,24 @@
+body {
+    font-family: Arial;
+    background-image: url( https://trendsresearch.org/wp-content/uploads/2024/12/Future-of-AI.jpg );
+    background: ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.chat-container {
+    color: white;
+    width: 300px;
+    margin: 50px auto;
+    background: rgba(0, 0.2, 0.3, 0.5);
+    padding: 20px;
+}
+
+#chatbox {
+    height: 500px;
+    overflow-y: auto;
+    border: 1px solid rgb(2, 46, 49);
+    margin-bottom: 10px;
+    padding: 10px;
+    corner: end end shape 1px;);
+}
